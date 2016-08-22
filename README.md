@@ -26,6 +26,6 @@ Code layout
   |---|-- pushoversha1.cpp    [implements below class - http://pushover.sourceforge.net/         ]  
   |---|-- pushoversha1.hpp    [SHA1 algorithm picked from Pushover                               ]  
   |---|-- s11nsha.cpp         [implements below class                                            ]  
-  |---`-- s11nsha.hpp         [SHA1 class with archive/(de)serialization support for SHA1 object ]  
+  |---|-- s11nsha.hpp         [SHA1 class with archive/(de)serialization support for SHA1 object ]  
   |-- t  
-  |---`-- utest.cpp           [unit tests                                                        ]
+  |---|-- utest.cpp           [unit tests                                                        ]  
